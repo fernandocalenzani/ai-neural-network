@@ -10,10 +10,11 @@ numpy = "*"
 matplot = "*"
 dlib = "*"
 pillow = "*"
-scikit-learn = "*"
 seaborn = "*"
 opencv-contrib-python = "*"
 sympy = "*"
+pybrain = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
